@@ -1,12 +1,20 @@
 {
   "name": "react-native-progress-webview",
-  "version": "0.1.0",
-  "description": "",
+  "version": "1.0.0",
+  "description": "React Native Progress WebView is a wrapper of React Native WebView to provide the loading status.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "keywords": [
+    "react",
+    "react-native",
+    "react-native-progress-webview",
+    "webview",
+    "progress webview",
+    "loading",
+    "loading bar"
+  ],
   "author": "Di Wang<wangdicoder@gmail.com>",
   "license": "MIT",
   "dependencies": {

@@ -4,6 +4,8 @@
 
 **React Native Progress WebView** is a wrapper of [React Native WebView](https://github.com/react-native-community/react-native-webview) to provide the loading status.
 
+<img src="https://raw.githubusercontent.com/wangdicoder/react-native-progress-webview/master/screenshot.gif" width="326" height="576" />
+
 ## Platforms Supported
 
 - [x] iOS (both UIWebView and WKWebView)
