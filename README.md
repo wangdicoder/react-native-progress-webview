@@ -1,6 +1,6 @@
 # React Native Progress WebView
 
-![npm](https://img.shields.io/npm/dy/react-native-progress-webview.svg) ![npm](https://img.shields.io/npm/v/react-native-progress-webview.svg) ![Libraries.io dependency status for GitHub repo](https://img.shields.io/librariesio/github/wangdicoder/react-native-progress-webview.svg) [![star this repo](http://githubbadges.com/star.svg?user=wangdicoder&repo=react-native-progress-webview&style=flat)](https://github.com/wangdicoder/react-native-progress-webview) ![NPM](https://img.shields.io/npm/l/react-native-progress-webview.svg) 
+![npm](https://img.shields.io/npm/dy/react-native-progress-webview.svg) ![npm](https://img.shields.io/npm/v/react-native-progress-webview.svg) [![star this repo](http://githubbadges.com/star.svg?user=wangdicoder&repo=react-native-progress-webview&style=flat)](https://github.com/wangdicoder/react-native-progress-webview) ![GitHub](https://img.shields.io/github/license/wangdicoder/react-native-progress-webview.svg)
 
 **React Native Progress WebView** is a wrapper of [React Native WebView](https://github.com/react-native-community/react-native-webview) to provide the loading status.
 
