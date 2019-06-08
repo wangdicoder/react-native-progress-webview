@@ -13,11 +13,16 @@
 
 ## Getting Started
 
-Read our [Getting Started Guide](https://github.com/react-native-community/react-native-webview) on React Native WebView page to configure the webview component.
+Firstly, read the [Getting Started Guide](https://github.com/react-native-community/react-native-webview) on React Native WebView page to configure the webview component.
+
+Then
+```bash
+$ npm install --save react-native-progress-webview
+```
 
 ## Usage
 
-Import the `WebView` component from `react-native-webview` and use it like so:
+Import the `ProgressWebView` component from `react-native-progress-webview` and use it like so:
 
 ```jsx
 import React, { Component } from 'react';
