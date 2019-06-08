@@ -43,11 +43,12 @@ class App extends Component {
 
 **React Native Progress Webview** supports all React Native Webview props. Read the [API Reference](https://github.com/react-native-community/react-native-webview/blob/master/docs/Reference.md) to explore. There are a couple of exclusive props related to the loading bar.
 
-| prop              | type   | default | description                                             |
-| ----------------- | ------ | ------- | ------------------------------------------------------- |
-| color             | string | #3B78E7 | normal color of loading bar                             |
-| errorColor        | string | #f30    | error color of loading bar                              |
-| disappearDuration | number | 300     | the visible duration after loading bar loading finished |
+| prop              | type   | default | description                                                 |
+| ----------------- | ------ | ------- | ----------------------------------------------------------- |
+| height            | number | 3       | the height of loading bar                                   |
+| color             | string | #3B78E7 | the normal color of loading bar                             |
+| errorColor        | string | #f30    | the error color of loading bar                              |
+| disappearDuration | number | 300     | the visible duration after the webview finishes the loading |
 
 ## License
 
