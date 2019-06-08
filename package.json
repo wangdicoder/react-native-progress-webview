@@ -1,0 +1,16 @@
+{
+  "name": "react-native-progress-webview",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Di Wang<wangdicoder@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "prop-types": "^15.7.2",
+    "react-native-webview": "^5.11.0"
+  }
+}
