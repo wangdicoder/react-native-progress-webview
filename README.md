@@ -27,7 +27,7 @@ Import the `ProgressWebView` component from `react-native-progress-webview` and 
 ```jsx
 import React, { Component } from 'react';
 import { StyleSheet, Text, View } from 'react-native';
-import ProgressWebView from "react-native-progess-webview";
+import ProgressWebView from "react-native-progress-webview";
 
 // ...
 class App extends Component {
